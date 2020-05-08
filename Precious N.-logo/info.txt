@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Variane Script
+font link: https://www.behance.net/gallery/26855635/Variane-Script-Font
+font author: Boy Moch Tomi
+font author site: https://www.behance.net/workinsstudio
+
+
+icon designer: Roundicons.com
+icon designer link: /roundicons
+        
+{"bg":"transparent","icon-gradient-0":"#E0302F","icon-gradient-1":"#3281DD","font":"#000000","slogan":"#141414"}
+      
